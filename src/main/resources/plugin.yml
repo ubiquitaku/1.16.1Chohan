@@ -1,0 +1,6 @@
+name: Chohan
+version: ${project.version}
+main: ubiquitaku.chohan.Chohan
+api-version: 1.16
+commands:
+  mc:
